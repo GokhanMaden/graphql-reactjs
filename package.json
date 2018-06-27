@@ -1,0 +1,22 @@
+{
+  "name": "graphqlplayground",
+  "version": "1.0.0",
+  "description": "GraphQL with ReactJS playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GokhanMaden/graphql-reactjs.git"
+  },
+  "author": "Gokhan Maden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GokhanMaden/graphql-reactjs/issues"
+  },
+  "homepage": "https://github.com/GokhanMaden/graphql-reactjs#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.14.10"
+  }
+}
